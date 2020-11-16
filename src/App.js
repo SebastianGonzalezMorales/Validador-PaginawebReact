@@ -10,8 +10,9 @@ function App() {
   return (
     <div className="App">n
       <header className="App-header">
-        <p>Clave UValpo</p>
-      <MiValidador valor = "123456"/>
+        <p>Ejemplo - Clase N° 1 react</p>
+        <p>Ingrese Rut</p>
+      <MiValidador valor = ""/>
       </header>
     </div>
   );
